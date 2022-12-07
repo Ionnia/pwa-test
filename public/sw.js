@@ -14,3 +14,7 @@ self.addEventListener("install", (event) => {
                 ])
             );
 });
+
+self.addEventListener("fetch", () => {
+    console.log('Fetched');
+})
