@@ -4,7 +4,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "/pwa/test/icons/icon-360.jpeg",
+            "src": "/pwa-test/icons/icon-360.jpeg",
             "sizes": "360x360",
             "type": "image/jpeg"
         }
