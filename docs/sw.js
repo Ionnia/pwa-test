@@ -11,7 +11,6 @@ self.addEventListener("install", (event) => {
                 "/pwa-test/manifest.json",
                 "/pwa-test/sw.js",
                 "/pwa-test/favicon.ico",
-                "/pwa-test/assets/*"
                 ])
             );
 });
