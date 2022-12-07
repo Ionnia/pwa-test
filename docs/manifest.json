@@ -1,10 +1,15 @@
 {
-    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "background_color": "#fff",
+    "description": "App to test PWA",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/pwa/test/icons/icon-360.jpeg",
+            "sizes": "360x360",
+            "type": "image/jpeg"
+        }
+    ],
     "name": "PwaTest",
     "short_name": "PwaTest",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#f00",
-    "description": "App to test PWA",
-    "icons": []
+    "start_url": "/pwa-test/index.html"
 }
