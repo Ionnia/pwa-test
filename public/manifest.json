@@ -1,0 +1,10 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "PwaTest",
+    "short_name": "PwaTest",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f00",
+    "description": "App to test PWA",
+    "icons": []
+}
